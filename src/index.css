@@ -1,0 +1,13 @@
+html,
+body {
+  margin: 0;
+  font-family: Basier Circle;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  overflow: hidden;
+}
+
+#root {
+  background: linear-gradient(108.18deg, #243444 2.46%, #000000 99.84%);
+}

@@ -1,0 +1,43 @@
+.container {
+  width: 15%;
+  height: 100%;
+  color: white;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.navigation {
+  margin-top: 1rem;
+}
+.selected {
+  color: white;
+}
+.not_selected {
+  color: #ffffff;
+  opacity: 0.4;
+}
+.avatar {
+  margin-bottom: 4rem;
+}
+
+@media screen and (max-width: 1100px) {
+  .container {
+    width: 30%;
+    height: 85%;
+  }
+  .avatar {
+    margin-bottom: 3rem;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  .container {
+    background-color: #181818;
+    width: 300px;
+    height: 100%;
+  }
+  .avatar {
+    margin-bottom: 0;
+  }
+}

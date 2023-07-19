@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "Basier Circle";
+  src: local("Basier Circle"),
+    url(./fonts/BasierCircle-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Basier Circle";
+  font-weight: 500;
+  src: local("Basier Circle"),
+    url(./fonts/BasierCircle-Medium.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Basier Circle";
+  font-weight: 700;
+  src: local("Basier Circle"),
+    url(./fonts/BasierCircle-Bold.ttf) format("truetype");
+}
+
+.App {
+  display: flex;
+  height: 100vh;
+}
