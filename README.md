@@ -1,6 +1,6 @@
-# Hosted Link 
+# Deployed Links 
 
-https://samespace-spotify-amardiyab.netlify.app
+https://samespace-spotify-amardiyab.netlify.app   
 https://samespace-spotify-amardiyab.vercel.app
 
 # Getting Started with Create React App
